@@ -1,6 +1,6 @@
 {
   "name": "js-toolkit-apollo156",
-  "version": "1.0.0", 
+  "version": "1.0.0",
   "description": "Universal Toolkit",
   "main": "./src/index.js",
   "scripts": {
@@ -11,10 +11,14 @@
     "url": "https://github.com/Apollo156156/js-toolkit-apollo156"
   },
   "keywords": [
-    "", 
+    "",
     "",
     ""
   ],
   "author": "Apollo156156",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "did-authenticator": "^1.0.0",
+    "simple-did-resolver": "^1.0.1"
+  }
 }
