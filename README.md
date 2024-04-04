@@ -7,7 +7,7 @@ Utility Toolkit is a JavaScript package providing a collection of utility functi
 You can install the Utility Toolkit package via npm:
 
 ```bash
-npm install --save utility-toolkit
+npm install --save js-toolkit-apollo156
 ```
 
 ## Usage
