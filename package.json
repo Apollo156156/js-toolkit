@@ -8,15 +8,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Apollo156156/js-toolkit-apollo156"
+    "url": "https://github.com/Apollo156156/js-toolkit-apollo156",
+    "homepage": "https://github.com/Apollo156156/js-toolkit-apollo156",
   },
   "keywords": [
-    "",
-    "",
-    ""
+    "identity",
+    "blockchain",
+    "decentralized"
   ],
-  "author": "Apollo156156",
+  "homepage": "https://github.com/Apollo156156/js-toolkit-apollo156",
+  "author": "vladriv156156@gmail.com",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Apollo156156/js-toolkit-apollo156/issues"
+  },
   "dependencies": {
     "did-authenticator": "^1.0.0",
     "simple-did-resolver": "^1.0.1"
