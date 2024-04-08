@@ -1,6 +1,6 @@
 {
   "name": "js-toolkit-apollo156",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Universal Toolkit",
   "main": "./src/index.js",
   "scripts": {
